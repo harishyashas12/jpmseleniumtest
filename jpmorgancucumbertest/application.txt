@@ -1,0 +1,8 @@
+2020-10-22 12:53:52,826  INFO [main] WebDriverUtils:31 - Creating driver for chrome browser
+2020-10-22 12:54:01,480  INFO [main] GooglePageObj:47 - Successfully Launched the browser
+2020-10-22 12:54:01,480  INFO [main] GooglePageObj:52 - Verifying page title
+2020-10-22 12:54:01,488  INFO [main] StepDef:20 - Successfully navigated to google page
+2020-10-22 12:54:02,761  INFO [main] GooglePageObj:61 - Search data entered successfully
+2020-10-22 12:54:13,450  INFO [main] StepDef:27 - Clicked on search result link successfully
+2020-10-22 12:54:13,453  INFO [main] GooglePageObj:73 - Verifying JPM logo
+2020-10-22 12:54:13,516  INFO [main] StepDef:34 - JP Mogan logo displayed successfully
